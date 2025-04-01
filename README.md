@@ -1,89 +1,25 @@
-My Gallery
+# My Gallery 📸
 
-A simple responsive image gallery with filtering functionality using HTML, CSS, and JavaScript. It supports category-based filtering and a lightbox preview feature.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/ajnish-kumar-sahu/my-gallery)](https://github.com/ajnish-kumar-sahu/my-gallery/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/ajnish-kumar-sahu/my-gallery)](https://github.com/ajnish-kumar-sahu/my-gallery/stargazers)
 
-Features
+A responsive image gallery with dynamic filtering and lightbox preview, built with vanilla JavaScript.
 
-Responsive grid layout for images
+![Gallery Preview](./screenshot.jpg)
 
-Category-based filtering
+## Features ✨
 
-Lightbox preview for images
+- 🌐 Responsive grid layout (mobile-friendly)
+- 🏷️ Category-based filtering (Nature/Urban/People)
+- 🔍 Search functionality by image tags
+- 🔎 Lightbox image preview with overlay
+- 🎨 Clean modern UI with hover animations
+- ⚡ Fast and lightweight (no dependencies)
 
-Simple and clean UI
-
-
-Installation
+## Installation 🛠️
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/ajnish-kumar-sahu/my-gallery.git
-
-
-2. Open index.html in your browser.
-
-
-
-Usage
-
-Click on thumbnails to view images in lightbox mode.
-
-Use category buttons to filter images.
-
-Use the search bar to find images by name.
-
-Click outside the image or the close button to exit lightbox mode.
-
-
-Project Structure
-
-my-gallery/
-│── images/
-│   ├── fullsize/
-│   ├── thumbnails/
-│── css/
-│   ├── styles.css
-│── js/
-│   ├── script.js
-│── index.html
-│── README.md
-
-Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-
-
-2. Create a feature branch:
-
-git checkout -b feature-branch
-
-
-3. Commit your changes:
-
-git commit -m "Add some feature"
-
-
-4. Push to the branch:
-
-git push origin feature-branch
-
-
-5. Create a pull request.
-
-
-
-License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-
-Ajnish Kumar Sahu
-
-GitHub: ajnish-kumar-sahu
-
-Email: mailto.ajnishku7070@gmail.com
-
-
+cd my-gallery
